@@ -28,12 +28,12 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
 
 
 os.system("clear")
-print("\033[31mTools ddos pvt") 
-print("\033[31mAttacking by MR.DANI") 
-print("\033[31mconnect To Ip %s Port %s"%(orgip,port))
-print("\033[31mconnecting Down...........")
-print("\033[31mConnecting Down.......................TimeOut") 
-print("\033[31mTools By MR.DANI | SAMP | WEBSITE | GTPS")
+print("\033[92mTools ddos pvt") 
+print("\033[92mAttacking by MR.DANI") 
+print("\033[92mconnect To Ip %s Port %s"%(orgip,port))
+print("\033[92mconnecting Down...........")
+print("\033[92mConnecting Down...................TimeOut") 
+print("\033[92mTools By MR.DANI | SAMP | WEBSITE | GTPS")
 
 
 
